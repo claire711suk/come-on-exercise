@@ -1,0 +1,7 @@
+{
+  "name": "来呀！运动呀",
+  "description": "暖极简风格的熟人社交健身打卡工具，每周生成汗水长图。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
